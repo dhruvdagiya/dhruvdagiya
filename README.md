@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhruvdagiya
 - 👀 I’m interested in Web Development and Machine learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me just mail me on dhruvdagiya@gmail.com
 
 <!---
